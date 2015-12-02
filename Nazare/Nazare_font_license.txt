@@ -1,0 +1,24 @@
+Nazaré - free font
+
+Created by David Szebenyi (Aman) - dszebenyi@gmail.com
+
+http://www.aman.hu
+
+
+This font can be used for both – personal and commercial projects!
+
+
+Embedding:
+You may embed the font into any document you send to third parties. Such documents may be viewed, printed and edited by the recipients.
+
+You may embed the font into software or hardware products in which the fonts will be used by the purchasers of such products (PDF’s, WP templates, e-books, Website templates, Mobile Apps, etc.).
+
+You may embed the font into a web page with a @font-face declaration. You’re able to generate web-font packages from the font file in a third party program or generator.
+
+
+Modifications:
+You may import characters from the font as graphical objects into a drawing program (Adobe Illustrator, Adobe Photoshop, Corel Draw, etc..) and modify such graphical objects.
+
+You may not modify, adapt, translate, reverse engineer, decompile, disassemble, or create derivative works based on the free fonts itself without my prior written consent.
+
+You may not resell or redistribute the font itself or any derivative works based on the font itself without my prior written consent.
